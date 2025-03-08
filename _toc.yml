@@ -8,7 +8,7 @@ chapters:
 #  - file: notebooks/01/01-Introduction to Kinematics.ipynb
   - file: notebooks/01/02-Rigid Body Kinematics I.ipynb
   - file: notebooks/01/03-Rigid Body Kinematics II.ipynb
-#  - file: notebooks/01/04-Static Attitude Determination.ipynb
+  - file: notebooks/01/04-Static Attitude Determination.ipynb
 
 #- file: notebooks/02/02.00.md
 #  sections:
