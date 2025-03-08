@@ -21,6 +21,10 @@ chapters:
 #  sections:
 #  - file: notebooks/03/01-Nonlinear Stability Definition.ipynb
 
+- file: notebooks/04/00-intro.ipynb
+  sections:
+  - file: notebooks/04/01-Three Body Problem.ipynb
+
 - file: notebooks/appendix/appendix.md
   sections:
   - file: notebooks/appendix/quotes.md
